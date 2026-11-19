@@ -1,0 +1,7 @@
+{
+  "source": "assets\\artifacts\\gate-arch-v1\\m1-mesh-a-0.glb",
+  "vertices": 23538,
+  "triangles": 27078,
+  "conversion": "glTF right-handed to Unity left-handed: negate Z and reverse winding. UVs from trimesh glTF loader.",
+  "metallic_map": true
+}

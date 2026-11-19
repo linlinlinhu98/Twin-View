@@ -1,0 +1,7 @@
+{
+  "source": "assets\\artifacts\\offset-guardian-v1\\output-0.glb",
+  "vertices": 17972,
+  "triangles": 24876,
+  "conversion": "glTF right-handed to Unity left-handed: negate Z and reverse winding. UVs from trimesh glTF loader.",
+  "metallic_map": true
+}
